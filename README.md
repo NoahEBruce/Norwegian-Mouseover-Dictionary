@@ -20,7 +20,7 @@ I just made this to help myself learn Norweigan and figured I'd put it up so oth
 - Some type of integration with Anki
 - Improved UI
 
-##Data Sources/Credit
+## Data Sources/Credit
 
 Bokmål to English Dictionary:
 Data obtained from [Lexin Bokmål-English](https://lexin.oslomet.no/?mode=main-page&sub-mode=search&dict=nbo-nny-maxi&ui-lang=nbo#/findwords/message.bokmal-english).
